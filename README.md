@@ -1,6 +1,7 @@
 # php-shell
 Lightweight easy to hide PHP backdoor
 
+Inspired by https://github.com/Contra/TinyShell
 
 ## Shell variants
 
