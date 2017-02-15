@@ -26,4 +26,10 @@ Alternative version for **shellm.php**. Non printable characters are replaced wi
 
 ## Python client
 
+**Requirements**
+
+    pip install urwid
+ 
+**Usage**
+
     python client.py http://example.com/shell.php
