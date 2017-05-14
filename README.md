@@ -3,6 +3,8 @@ Lightweight easy to hide PHP backdoor
 
 Inspired by https://github.com/Contra/TinyShell
 
+More info at https://blog.iamlevi.net/2017/02/small-easy-hide-php-backdoor/
+
 ## Shell variants
 
 #### shell.php
